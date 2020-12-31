@@ -52,6 +52,6 @@
 
 <div align="center">
 
-### Show some 💚 by starring some of the repositories! that you like.
+### Thank You
 
 </div>
