@@ -46,7 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pktintali&repo=students-mitra&theme=dark" />
 
 </a>
-<a href="https://github.com/pktintali/flutter_custom_cards">
+<a href="https://github.com/pktintali/floating_text">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pktintali&repo=flutter_custom_cards&theme=dark" />
 </a>
 
