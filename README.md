@@ -47,7 +47,7 @@
 
 </a>
 <a href="https://github.com/pktintali/floating_text">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pktintali&repo=flutter_custom_cards&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pktintali&repo=floating_texts&theme=dark" />
 </a>
 
 <div align="center">
