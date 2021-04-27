@@ -1,6 +1,6 @@
 ## Hello, I'm [Pradeep Kumar!](https://instagram.com/pradeeptintali) 👋
 
-<a href="https://twitter.com/pradeeptintali">
+<a href="https://twitter.com/pradeep_tintali">
   <img align="left" alt="Pradeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/pradeeptintali">
@@ -23,7 +23,7 @@
 
 - 👨‍💻 I’m currently working on [studentmitra.in](https://studentmitra.in/)
 - 🌱 I’m currently learning [Python](https://www.python.org/) and [Dart](https://dart.dev/)
-- 📫 How to reach me: Twitter [@pktintali](https://twitter.com/pradeeptintali) , Email [pktintali@gmail.com](mailto:pktintali@gmail.com)
+- 📫 How to reach me: Twitter [@pktintali](https://twitter.com/pradeep_tintali) , Email [pktintali@gmail.com](mailto:pktintali@gmail.com)
 - ⚡ Fun fact: I spend almost 10 hours on my laptop everyday.
 
 **Languages and Tools:**  
