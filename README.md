@@ -21,7 +21,7 @@
 
 
 
-- 👨‍💻 I’m currently working on [studentmitra.in](https://studentmitra.in/)
+- 👨‍💻 I’m currently working on something cool😃
 - 🌱 I’m currently learning [Python](https://www.python.org/) and [Dart](https://dart.dev/)
 - 📫 How to reach me: Twitter [@pktintali](https://twitter.com/pradeep_tintali) , Email [pktintali@gmail.com](mailto:pktintali@gmail.com)
 - ⚡ Fun fact: I spend almost 10 hours on my laptop everyday.
@@ -33,7 +33,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <a href="https://github.com/pktintali">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pktintali&langs_count=6&theme=dark" />
@@ -42,12 +44,13 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pktintali&show_icons=true&theme=dark&line_height=47" alt="Pradeep's github stats"/>
 </a>
 <br/>
-<a href="https://github.com/pktintali/students-mitra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pktintali&repo=students-mitra&theme=dark" />
 
-</a>
 <a href="https://github.com/pktintali/floating_text">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pktintali&repo=floating_text&theme=dark" />
+</a>
+
+<a href="https://github.com/pktintali/students-mitra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pktintali&repo=students-mitra&theme=dark" />
 </a>
 
 <div align="center">
