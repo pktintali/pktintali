@@ -1,6 +1,6 @@
 ## Hello, I'm [Pradeep Kumar!](https://instagram.com/pradeeptintali) 👋
 
-<a href="https://twitter.com/pradeep_tintali">
+<a href="https://twitter.com/PkTintali">
   <img align="left" alt="Pradeep's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
 <a href="https://instagram.com/pradeeptintali">
@@ -19,8 +19,8 @@
 
 
 - 👨‍💻 I’m currently working on something cool😃
-- 🌱 I’m currently learning [Next.Js](https://nextjs.org/) and [AWS](https://aws.amazon.com/)
-- 📫 How to reach me: Twitter [@pktintali](https://twitter.com/pradeep_tintali) , Email [pktintali@gmail.com](mailto:pktintali@gmail.com)
+- 🌱 I’m currently learning LLMs and [AWS](https://aws.amazon.com/)
+- 📫 How to reach me: Twitter [@pktintali](https://twitter.com/PkTintali) , Email [pktintali@gmail.com](mailto:pktintali@gmail.com)
 - ⚡ Fun fact: I spend almost 8 hours daily on my coding and development skills.
 
 **Languages and Tools:**  
